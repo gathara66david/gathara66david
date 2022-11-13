@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gathara66david
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning spftware engineer
+- 🌱 I’m currently learning software engineer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on twitter david gathara
 
